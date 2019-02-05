@@ -1,0 +1,75 @@
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+        <h1>Sanzhar's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#recipe1">Recipe #1</a></li>
+            <li><a href = "#recipe2">Recipe #2 </a> </li>
+        </ol>
+        
+        <h2 id="recipe1">Recipe #1</h2>
+        
+        <ul>
+            <li>Time: 30</li>
+            <li>Serves: kitchen at all</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Lot of ingredients </td>
+                    <td>Easy</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Do something.
+        <br>
+        <strong> Step 2:</strong> Do soooomething.
+        <br>
+        <strong> Step 3:</strong> Finish.
+        
+        <h2 id = "recipe2"> Recipe #2 </h2>
+        
+        <ul> 
+            <li> Time: 40 </li>
+            <li> serves: kitchen at all </li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Lot of ingredients </td>
+                    <td>Easy</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        
+</p>
+        
+    <p><em>Source: <a href="https://piazza.com/class/jr7bs8lykxe32o?cid=6">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
